@@ -10,10 +10,12 @@ import string
 
 # Create a Flask instance
 app = Flask(__name__)
+
 # Setup the secret key to protect user session data
 # It does not protect other sensitive things like user passwords
 # Every time the application is restarted, users will be logged out like a cookie reset
-app.config['SECRET_KEY'] = 'bkfawliaril2lhr2(@U(((#HGL(*&HWA))))))'
+app.config['SECRET_KEY'] = 'bkfawliaril2lhr2(@U(((#HGL((*&^%&^&**!)($@TDHWLDHIdwiuafuiqh2r9lwge99*&HWA))))))'
+
 # Create a SocketIO instance with app
 socketio = SocketIO(app)
 
