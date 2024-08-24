@@ -35,11 +35,11 @@ a) Open a browser of choice.
 
 b) Type in the URL ```http://127.0.0.1:5000/``` to the browser to open the home page.
 
-c) In home page, type in username and click the 'Create Room' button to create and enter a chat room.
+c) In home page, type in _username_ and click the 'Create Room' button to create and enter a chat room.
 
 OR,
 
-Type in username and chat room code, then click the 'Join' button to join an existing chat room.
+Type in _username_ and _chat room code_, then click the 'Join' button to join an existing chat room.
 
 d) In room page, type a message and click the 'Send' button to send the message to the current chat room.
 
