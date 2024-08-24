@@ -15,6 +15,10 @@ c) Use command ```source flask_chat_venv/bin/activate``` to activate the virtual
 
 Use command ```\flask_chat_venv\Scripts\activate``` to activate for Windows.
 
+You will notice the prefix **'(flask_chat_venv)'** being added to each of your terminal command lines, upon successful activation.
+
+To deactivate the virtual environment, use command ```deactivate```.
+
 d) Install **Flask-SocketIO** using command ```pip install flask-socketio```.
 
 ##
