@@ -17,12 +17,14 @@ Use command ```\flask_chat_venv\Scripts\activate``` to activate for Windows.
 
 d) Install **Flask-SocketIO** using command ```pip install flask-socketio```.
 
+##
 
 ### 2. Run the server program
 a) In terminal, use command ```python3 main.py``` to start the server program.
 
 Use key-combination ```[Ctrl+c]``` in the same terminal to terminate the server program.
 
+##
 
 ### 3. Run the client program
 a) Open a browser of choice.
