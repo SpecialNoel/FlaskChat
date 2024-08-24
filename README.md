@@ -27,10 +27,12 @@ Use key-combination ```[Ctrl+c]``` in the same terminal to terminate the server 
 ### 3. Run the client program
 a) Open a browser of choice.
 
-b) Type in the URL ```http://127.0.0.1:5000/``` to open the home page.
+b) In home page, type in the URL ```http://127.0.0.1:5000/``` to open the home page.
 
 c) Type in username and click the 'Create Room' button to create and enter a chat room.
 
 OR,
 
 Type in username and chat room code, then click the 'Join' button to join an existing chat room.
+
+d) In room page, type a message and click the 'Send' button to send the message to the current chat room.
