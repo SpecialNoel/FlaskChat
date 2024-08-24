@@ -38,3 +38,5 @@ OR,
 Type in username and chat room code, then click the 'Join' button to join an existing chat room.
 
 d) In room page, type a message and click the 'Send' button to send the message to the current chat room.
+
+e) Click the 'Leave the Chat' button to leave the chat room and return to the home page. 
