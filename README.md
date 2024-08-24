@@ -19,7 +19,7 @@ You will notice the prefix **'(flask_chat_venv)'** being added to each of your t
 
 To deactivate the virtual environment, use command ```deactivate```.
 
-d) Install **Flask-SocketIO** using command ```pip install flask-socketio```.
+d) Install **Flask** and **Flask-SocketIO** using command ```pip install flask-socketio```.
 
 ##
 
