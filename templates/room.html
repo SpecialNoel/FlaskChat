@@ -25,6 +25,7 @@
                 var senderIsUser = "{{user}}" === sender;
                 var content = `
                     <li class="message-item ${senderIsUser ? "self-message-item" : "peer-message-item"}">
+                    <small>From: ${sender}</small>
                     <p>${message}</p>
                     <small class="${senderIsUser ? "muted-text" : "muted-text-white"}">${new Date().toLocaleString()}</small>
                     </li>`;

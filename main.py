@@ -3,6 +3,8 @@
 # Run the program with command: python3 main.py
 # Enter the URL in a broswer to open the home page: http://127.0.0.1:5000/
 
+# Tutorial: https://thepythoncode.com/article/how-to-build-a-chat-app-in-python-using-flask-and-flasksocketio
+
 from flask import Flask, request, render_template, redirect, url_for, session
 from flask_socketio import SocketIO, join_room, leave_room, send
 import random
